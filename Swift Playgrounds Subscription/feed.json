@@ -1,0 +1,31 @@
+{
+    "title": "Adafruit Swift Playgrounds",
+    "subtitle": "A Collection of Swift Lessons",
+    "publisherName": "Adafruit Industries",
+    "feedIdentifier": "com.adafruit.swiftplaygrounds",
+    "contactURL": "https://www.adafruit.com/support",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Swift Playgroundbook For Bluefruit",
+            "overviewSubtitle": "Control your Race Car with Swift Playground for Bluefruit",
+            "detailSubtitle": "Control your Bluefruit board via iPad through your Swift Playgrounds!",
+            "description": "Learn the Swift Programming Language here!",
+            "contentIdentifier": "com.adafruit.swiftplaygrounds.bluefruit",
+            "contentVersion": "1.0",
+            "url": "Bluefruit/Swift-Playground-for-Bluefruit.playgroundbook.zip",
+            "publishedDate": "2018-02-04T11:30:57+00:00",
+            "thumbnailURL": "Bluefruit/thumbnail.png",
+            "bannerImageURL": "Bluefruit/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "Bluefruit/preview-1.png"
+            ]
+	  }
+    ]
+ }
