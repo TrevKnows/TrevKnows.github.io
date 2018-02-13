@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "previewImageURLs": [],
+      "bannerImageURL": "Bluefruit/banner.png",
+      "thumbnailURL": "Bluefruit/thumbnail.png",
+      "subtitle": "Learn Swift with Adafruit",
+      "description": "Learn Swift with Adafruit",
+      "publishedDate": "2017-05-29T12:00:00+00:00",
+      "url": "Bluefruit/Swift-Playground-for-Bluefruit.playgroundbook.zip",
+      "additionalInformation": [
+        {
+          "name": "Publisher:",
+          "value": "Adafruit Industries"
+        },
+        {
+          "name": "Version:",
+          "value": "1.0"
+        },
+        {
+          "type": "date",
+          "name": "Released:",
+          "value": "2017-05-29T12:00:00+00:00"
+        },
+        {
+          "name": "Languages:",
+          "value": "English"
+        }
+      ],
+      "title": "Adafruit Bluefruit",
+      "contentVersion": "1.0",
+      "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+      "contentIdentifier": "com.adafruit.swiftplaygrounds.bluefruit"
+    }
+  ],
+  "publisherName": "Adafruit Industries",
+  "title": "Adafruit",
+  "formatVersion": "1.0",
+  "feedIdentifier": "com.adafruit.swiftplaygrounds",
+  "contactURL": "support.adafruit.com"
+}
